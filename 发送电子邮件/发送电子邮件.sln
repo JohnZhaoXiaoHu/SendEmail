@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SendEmail", "SendEmail\", "{D1C4ADCC-DF5E-4981-9E9E-7BF4F54FC34F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/SendEmail"
+		Debug.AspNetCompiler.PhysicalPath = "SendEmail\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SendEmail\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SendEmail"
+		Release.AspNetCompiler.PhysicalPath = "SendEmail\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SendEmail\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2849"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1C4ADCC-DF5E-4981-9E9E-7BF4F54FC34F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C4ADCC-DF5E-4981-9E9E-7BF4F54FC34F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
